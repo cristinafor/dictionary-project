@@ -13,9 +13,11 @@ a {
 }
 
 .App-logo {
-  max-width: 100px;
+  max-width: 700px;
+  max-height: 300px;
   display: block;
   margin: 0 auto;
+  border-radius: 5px;
 }
 
 .App-footer {

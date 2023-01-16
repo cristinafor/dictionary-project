@@ -1,4 +1,4 @@
-import logo from "./logo-cri.png";
+import logo from "./header.png";
 import "./App.css";
 import Dictionary from "./Dictionary";
 
