@@ -1,11 +1,15 @@
 body {
-  background-color: #f5f8f8;
+  background-color: #edf1e2;
   margin: 5px 30px;
 }
 
 a {
   text-decoration: none;
   color: 0abab5;
+}
+
+.App {
+  max-width: 900px;
 }
 
 .App-logo {
